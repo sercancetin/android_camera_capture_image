@@ -1,0 +1,2 @@
+# android_camera_capture_image
+android_camera_capture_image
